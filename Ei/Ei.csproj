@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>Com.Setarit.Ei</RootNamespace>
+    <AssemblyName>Com.Setarit.Ei</AssemblyName>
   </PropertyGroup>
 
 </Project>
