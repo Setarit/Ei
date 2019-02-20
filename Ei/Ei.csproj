@@ -6,4 +6,8 @@
     <AssemblyName>Com.Setarit.Ei</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Factory\" />
+  </ItemGroup>
+
 </Project>
