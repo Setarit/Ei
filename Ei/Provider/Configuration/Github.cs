@@ -17,7 +17,7 @@ namespace Com.Setarit.Ei.Provider.Configuration
         /// <summary>
         /// The username to use for authentication
         /// </summary>
-        public string UserName { get; set; }
+        public string Username { get; set; }
         /// <summary>
         /// The personal access token for authentication
         /// </summary>
