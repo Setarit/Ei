@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Com.Setarit.Ei.Provider.Configuration
 {
-    public class Github
+    public class Github:IConfiguration
     {
         /// <summary>
         /// The owner of the repository

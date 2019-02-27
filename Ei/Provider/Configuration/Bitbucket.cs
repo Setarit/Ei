@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Com.Setarit.Ei.Provider.Configuration
 {
-    public class Bitbucket
+    public class Bitbucket:IConfiguration
     {
         /// <summary>
         /// The repository name as represented in the weburl.

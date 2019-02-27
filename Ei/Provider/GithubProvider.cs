@@ -21,12 +21,12 @@ namespace Com.Setarit.Ei.Provider
             throw new NotImplementedException();
         }
 
-        public void CreateIssue(string title, string description, Exception exception)
+        public void CreateIssue(string title, string description, System.Exception exception)
         {
             throw new NotImplementedException();
         }
 
-        public void CreateIssue(string title, Exception exception)
+        public void CreateIssue(string title, System.Exception exception)
         {
             throw new NotImplementedException();
         }
